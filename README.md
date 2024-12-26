@@ -1,7 +1,7 @@
 # 국비교육 수료 보고서
 
 본 레포지토리는 2024-06-20부터 2024-12-17까지 수료한 
-"디지털 컨버전스 지능형 애플리케이션 개발자 양성과정"의 학습 및 프로젝트 보고서입니다.
+**디지털 컨버전스 지능형 애플리케이션 개발자 양성과정**의 학습 및 프로젝트 보고서입니다.
 
 ## 목차
 1. [교육 개요](#1-교육-개요)
@@ -38,7 +38,7 @@
 3. [Real World Application (팀 프로젝트)](./docs/PJT3_RealWorldApplication.md)  
    - [발표 자료 PDF](./docs/PJT3_RealWorldApplication_ppt.pdf)
 
-4. [최종 프로젝트: MSA 서비스 (팀 프로젝트)](./docs/PJT_Final_MSAService.md)  
+4. [최종 프로젝트: MSA 서비스 (팀 프로젝트, **대상 수상**)](./docs/PJT_Final_MSAService.md)  
    - [발표 자료 PDF](./docs/PJT_Final_MSAService_ppt.pdf)
 
 ---

@@ -29,17 +29,17 @@
 
 ## 3. 프로젝트 목록
 
-1. [Social Media (개인 프로젝트)](./docs/PJT1_SocialMedia.md)  
-   - [발표 자료 PDF](./docs/PJT1_SocialMedia_ppt.pdf)
+1. [Social Media (개인 프로젝트)](./docs/PJT1_SocialMedia/PJT1_SocialMedia.md)  
+   - [발표 자료 PDF](./docs/PJT1_SocialMedia/PJT1_SocialMedia_ppt.pdf)
 
-2. [TEAM SOCCER (팀 프로젝트)](./docs/PJT2_TeamSoccer.md)  
-   - [발표 자료 PDF](./docs/PJT2_TeamSoccer_ppt.pdf)
+2. [TEAM SOCCER (팀 프로젝트)](./docs/PJT2_TeamSoccer/PJT2_TeamSoccer.md)  
+   - [발표 자료 PDF](./docs/PJT2_TeamSoccer/PJT2_TeamSoccer_ppt.pdf)
 
-3. [Real World Application (팀 프로젝트)](./docs/PJT3_RealWorldApplication.md)  
-   - [발표 자료 PDF](./docs/PJT3_RealWorldApplication_ppt.pdf)
+3. [Real World Application (팀 프로젝트)](./docs/PJT3_RealWorldApplication/PJT3_RealWorldApplication.md)  
+   - [발표 자료 PDF](./docs/PJT3_RealWorldApplication/PJT3_RealWorldApplication_ppt.pdf)
 
-4. [최종 프로젝트: MSA 서비스 (팀 프로젝트, **대상 수상**)](./docs/PJT_Final_MSAService.md)  
-   - [발표 자료 PDF](./docs/PJT_Final_MSAService_ppt.pdf)
+4. [최종 프로젝트: MSA 서비스 (팀 프로젝트, **대상 수상**)](./docs/PJT_Final_MSAService/PJT_Final_MSAService.md)  
+   - [발표 자료 PDF](./docs/PJT_Final_MSAService/PJT_Final_MSAService_ppt.pdf)
 
 ---
 
